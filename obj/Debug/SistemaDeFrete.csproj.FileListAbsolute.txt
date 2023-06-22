@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\SistemaDeFrete.exe.config
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\SistemaDeFrete.exe
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\SistemaDeFrete.pdb
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.csproj.SuggestedBindingRedirects.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.Form1.resources
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.Properties.Resources.resources
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.csproj.GenerateResource.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.exe
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.pdb
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\DotCEP.dll
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\Newtonsoft.Json.dll
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\Spartacus.dll
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\bin\Debug\Newtonsoft.Json.xml
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.csproj.CopyComplete
+C:\Desenvolvimento\Projects\C# .Net Estudo\AULA 36 SISTEMA DE FRETE C#\SistemaDeFrete\obj\Debug\SistemaDeFrete.Login.resources

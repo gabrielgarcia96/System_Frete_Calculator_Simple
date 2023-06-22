@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeFrete", "SistemaDeFrete.csproj", "{F197D558-CF33-41A6-AE54-0EB4E2D9F303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuNoForm", "..\..\AULA 35 CRIANDO MENO NO FORMS C# P1\MenuNoForm\MenuNoForm.csproj", "{386E942E-3055-4003-912F-6058A6C99AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F197D558-CF33-41A6-AE54-0EB4E2D9F303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F197D558-CF33-41A6-AE54-0EB4E2D9F303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F197D558-CF33-41A6-AE54-0EB4E2D9F303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F197D558-CF33-41A6-AE54-0EB4E2D9F303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386E942E-3055-4003-912F-6058A6C99AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386E942E-3055-4003-912F-6058A6C99AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386E942E-3055-4003-912F-6058A6C99AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386E942E-3055-4003-912F-6058A6C99AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217A4DC8-FDBC-402E-A516-A996436685D6}
+	EndGlobalSection
+EndGlobal
