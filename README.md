@@ -22,7 +22,7 @@ Onde calcula a despesa do combustível, consumo combustível, quilômetro rodado
 custo do combustível por quilômetro rodado, destino, e valor total com taxa da tabela.
 
 functionality
-en-us
+en-us:
 It was created in C# .NET
 with windows forms,
 using the WebService, from the post office to find the delivery destination
