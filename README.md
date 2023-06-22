@@ -7,6 +7,10 @@ pt-br:
 Este Sistema Calcula, o valor de frete, combustivel, etc...
 Ele e bem simples para meu estudo e conhecimento adiquirido ate o momento,
 pretendo atualizalo mais para frente, voce pode usar ele como base para melhorar e dar seguimento a seu projeto
+
+
+
+
 Descrition
 en-us:
 This System Calculates, the value of freight, fuel, etc...
