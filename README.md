@@ -26,7 +26,8 @@ It was created in C# .NET
 with windows forms,
 using the WebService, from the post office to find the delivery destination
 
-![WhatsApp Image 2023-06-22 at 16 03 26](https://github.com/gabrielgarcia96/System_Frete_Calculator_Simple/assets/117041401/3b5364bf-1b87-42e4-b586-63622a4c098c)
+![WhatsApp Image 2023-06-22 at 16 07 56](https://github.com/gabrielgarcia96/System_Frete_Calculator_Simple/assets/117041401/c3bccd2c-cf01-4a16-af7b-5139fd1d4a52)
+
 
 
 Acesso
